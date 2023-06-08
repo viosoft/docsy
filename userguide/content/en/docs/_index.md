@@ -1,6 +1,6 @@
 
 ---
-title: Welcome to Docsy
+title: Welcome to XploR Studio
 linkTitle: Documentation
 menu: {main: {weight: 20}}
 ---
